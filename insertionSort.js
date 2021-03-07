@@ -1,5 +1,7 @@
 /* Insertion Sort Algorithm:
-   Time Complexity: O(n*n)
+   Average Time Complexity: O(n*n)
+   Best Time Complexity: O(n)
+   Works well if data is continously being added and needs to get sorted.
 */
 function insertionSort(arr) {
   let arrLen = arr.length;
