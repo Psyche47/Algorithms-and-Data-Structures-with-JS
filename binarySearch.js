@@ -1,7 +1,7 @@
-/*Binary Search Algorithm:
-  Prerequisite: The given array must be sorted.
-  Best case complexity: O(1)
-  Worst case complexity: O(logn)
+/* Binary Search Algorithm:
+   Prerequisite: The given array must be sorted.
+   Best case complexity: O(1)
+   Worst case complexity: O(logn)
 */
 function binarySearch(array, value) {
   let start = 0;

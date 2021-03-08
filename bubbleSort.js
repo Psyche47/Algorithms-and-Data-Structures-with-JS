@@ -1,6 +1,7 @@
 /* Bubble Sort Algorithm:
    Best Case Complexity: O(n)
    Worst Case Complexity: O(n*n)
+   Space Complexity: O(1)
 */
 function bubbleSort(arr) {
   const arrLen = arr.length;

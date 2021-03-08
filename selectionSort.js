@@ -1,5 +1,6 @@
 /* Selection Sort Algorithm:
    Time Complexity: O(n*n)
+   Space Complexity: O(1)
 */
 function selectionSort(arr) {
   let arrLen = arr.length;

@@ -1,3 +1,7 @@
+/* Merge Sort:
+   Timecomplexity: O(nlogn)
+   Space Complexity: O(n)
+*/
 function mergeArrays(arr1, arr2) {
   let results = [];
   let i = 0;

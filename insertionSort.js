@@ -1,6 +1,7 @@
 /* Insertion Sort Algorithm:
    Average Time Complexity: O(n*n)
    Best Time Complexity: O(n)
+   Space Complexity: O(1)
    Works well if data is continously being added and needs to get sorted.
 */
 function insertionSort(arr) {
